@@ -1,0 +1,6 @@
+G:\C#\code\BookLib\bin\Debug\BookLib.dll
+G:\C#\code\BookLib\bin\Debug\BookLib.pdb
+G:\C#\code\BookLib\obj\Debug\BookLib.csprojAssemblyReference.cache
+G:\C#\code\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+G:\C#\code\BookLib\obj\Debug\BookLib.dll
+G:\C#\code\BookLib\obj\Debug\BookLib.pdb
